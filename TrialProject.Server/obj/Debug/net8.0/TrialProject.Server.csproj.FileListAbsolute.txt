@@ -1,0 +1,129 @@
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.exe
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.deps.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.runtimeconfig.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.pdb
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.csproj.AssemblyReference.cache
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.AssemblyInfoInputs.cache
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.AssemblyInfo.cs
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.csproj.CoreCompileInputs.cache
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.TrialProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.TrialProject.Server.props
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrialProject.Server.props
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrialProject.Server.props
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\scopedcss\bundle\TrialProject.Server.styles.css
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialPro.4AE6FAA9.Up2Date
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\refint\TrialProject.Server.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.pdb
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.genruntimeconfig.cache
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\obj\Debug\net8.0\ref\TrialProject.Server.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\libman.json
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\Dapper.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vlady\source\repos\TrialProject\TrialProject.Server\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\libman.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.exe
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.deps.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.runtimeconfig.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.pdb
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\Dapper.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.csproj.AssemblyReference.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.TrialProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.TrialProject.Server.props
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrialProject.Server.props
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrialProject.Server.props
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\scopedcss\bundle\TrialProject.Server.styles.css
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialPro.4AE6FAA9.Up2Date
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\refint\TrialProject.Server.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.pdb
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.genruntimeconfig.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\TrialProject.Server\obj\Debug\net8.0\ref\TrialProject.Server.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\libman.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.exe
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.deps.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.runtimeconfig.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\TrialProject.Server.pdb
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\Dapper.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.csproj.AssemblyReference.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.TrialProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.TrialProject.Server.props
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrialProject.Server.props
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrialProject.Server.props
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\scopedcss\bundle\TrialProject.Server.styles.css
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialPro.4AE6FAA9.Up2Date
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\refint\TrialProject.Server.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.pdb
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\TrialProject.Server.genruntimeconfig.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\TrialProject.Server\obj\Debug\net8.0\ref\TrialProject.Server.dll

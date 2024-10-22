@@ -1,0 +1,3 @@
+C:\Users\vlady\source\repos\TrialProject\trialproject.client\obj\Debug\trialproject.client.esproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\Серверні рішення баз даних\LW3\trialproject.client\obj\Debug\trialproject.client.esproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\5 period\SSfDB\LW3\trialproject.client\obj\Debug\trialproject.client.esproj.CoreCompileInputs.cache
